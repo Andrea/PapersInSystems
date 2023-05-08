@@ -1,4 +1,4 @@
-# SystemsThinking Papers
+# Papers in Systems
 
 A collection of documents that are associated with the discussions on Systems Thinking Papers
 
