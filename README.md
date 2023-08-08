@@ -10,7 +10,7 @@ Send us your suggestions here
 
 | Date | Title |  Author(s) | Links |
 -------|-------|------------|---------
-| August 2023 | Dead rats, dopamine, performance metrics, and peacock tails: proxy failure is an inherent risk in goal-oriented systems | John, Yohan & Caldwell, Leigh & McCoy, Dakota & Braganza, Oliver. (2023) | [Paper](https://www.researchgate.net/publication/371866602_Dead_rats_dopamine_performance_metrics_and_peacock_tails_proxy_failure_is_an_inherent_risk_in_goal-oriented_systems) | 
+| August 2023 | Dead rats, dopamine, performance metrics, and peacock tails: proxy failure is an inherent risk in goal-oriented systems | John, Yohan & Caldwell, Leigh & McCoy, Dakota & Braganza, Oliver. (2023) | [Paper](https://www.researchgate.net/publication/371866602_Dead_rats_dopamine_performance_metrics_and_peacock_tails_proxy_failure_is_an_inherent_risk_in_goal-oriented_systems) [Board](2023-08-PS Monitoring.pdf)| 
 | July 2023  | Common Ground and Coordination in Joint Activity | Klein, Gary & Feltovich, Paul J. & Bradshaw, Jeffrey & Woods, David. (2005) | [Paper](https://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf)   [Board](2023-07-joint-activity.pdf) |
 | June 2023  |  ??? | ??? | [Paper]()  Board |
 | May 2023   |  ??? | ??? | [Paper]()  Board |
